@@ -1,4 +1,4 @@
-<h2 lign="center"> Oie, eu sou a Jaine Adriana, confira minha 
+<h2 lign="center"> Oie, eu sou a Jaine, confira minha 
 trajetória em programação <h2>
 <div align="center">
   <a href="https://github.com/rafaballerini">
