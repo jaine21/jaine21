@@ -1,4 +1,5 @@
-<h2> Oie, eu sou a Jaine Adriana, confira minha tragetoria em programação <h2>
+<h2 lign="center"> Oie, eu sou a Jaine Adriana, confira minha 
+trajetória em programação <h2>
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jaine21&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
