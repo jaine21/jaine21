@@ -9,7 +9,7 @@
   <img align="center" alt="jaine-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="jaine-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jaine-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="jaine-BI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" />
+  <img align="center" alt="jaine-BI" height="30" width="40" src="https://img.icons8.com/?size=512&id=qYfwpsRXEcpc&format=png" />
   <img align="right" alt="jaine-pic" height="150" style="border-radius:50px;" src="https://img.icons8.com/external-sketchy-juicy-fish/100/000000/external-data-data-science-sketchy-sketchy-juicy-fish-9.png"/>
 </div>
   
