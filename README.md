@@ -22,5 +22,5 @@
 </div>
 
 <p align="center">
-  Sou cientista de dados com mais de 4 anos de experiência, trabalhando com Business Intelligence (BI) focado em negócios. Tenho conhecimento técnico em Python, SQL e ferramentas de BI, aplicados para gerar insights e resultados significativos para empresas.
+  Sou Developer em BI, com mais de 3 anos de experiência, trabalhando com Business Intelligence (BI) focado em negócios. Tenho conhecimento técnico em Python, SQL e ferramentas de BI, aplicados para gerar insights e resultados significativos para empresas.
 </p>
